@@ -1,4 +1,4 @@
-## Being able to write code is one thing, but being able to explain it to someone else is another.Like Einstein said, if you can’t explain it to a six-year-old, you don’t understand it yourself.
+## Being able to write code is one thing, but being able to explain it to someone else is another. Like Einstein said, if you can’t explain it to a six-year-old, you don’t understand it yourself.
 <div align="center">
   <a href="https://github.com/promac2k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=promac2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
